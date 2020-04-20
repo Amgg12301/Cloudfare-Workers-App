@@ -1,0 +1,4 @@
+name = "amogh-cloudfare-workers"
+type = "javascript"
+account_id = "a6784d4870245625372c7e5f5631a779"
+workers_dev = true
